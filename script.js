@@ -1,8 +1,8 @@
 document.addEventListener('DOMContentLoaded', function () {
     const fixedPrices = {
-        aluminum: 5.50,
-        iron: 1.20,
-        copper: 32.00,
+        aluminum: 15.50,
+        iron: 5.80,
+        copper: 67.00,
         cardboard: 100.45
     };
 
